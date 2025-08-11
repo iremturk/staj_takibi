@@ -1,0 +1,9 @@
+Konu: Yazılım Geliştirme Süreçleri, Yaşam Döngüsü ve Mimarileri
+
+Bugün mentörümle yazılım geliştirme süreçlerini ve yaşam döngüsünü inceledik. Yazılım geliştirme; analiz, tasarım, kodlama, test ve bakım aşamalarından oluşan sistematik bir süreçtir. Bu aşamalar, kaliteli ve sürdürülebilir yazılım üretmek için takip edilir.
+
+Ayrıca yazılım mimarilerini öğrendim. Yazılım mimarisi, bir uygulamanın bileşenlerinin yapısını ve birbirleriyle olan etkileşimlerini tanımlar. Doğru mimari seçimi, uygulamanın performansını, ölçeklenebilirliğini ve bakımını doğrudan etkiler.
+
+Bugünkü çalışma, yazılım projelerinde disiplinli metodolojilerin önemini anlamamı sağladı. Bu bilgiler, staj sürecimde geliştireceğim projelerde yol gösterici olacaktır.
+
+

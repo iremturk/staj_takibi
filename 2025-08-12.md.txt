@@ -1,0 +1,17 @@
+Konu: Design Patterns, SOLID Prensipleri, Depency Injection ve Clean Architecture
+
+Design Patterns
+
+Tasarım kalıpları, yazılım geliştirme sürecinde karşılaşılan problemlere standart, tekrar kullanılabilir çözümler sunan şablonlardır. Kendi içerisinde birkaç kategoriye ayrılır. Avantajları ise ortak dil kullanarak kodun okunabilirliğini artırmasıdır; ekipler bu sayede daha hızlı ve verimli çalışır.
+
+SOLID Prensipleri
+
+Nesne yönelimli programlamada kodun esnek, sürdürülebilir ve genişletilebilir olmasını sağlayan ilkeler bütünüdür. Her bir harf bir ilkeyi temsil eder: S (Single Responsibility), O (Open-Closed), L (Liskov Substitution), I (Interface Segregation) ve D (Dependency Inversion). Kodun bakımını kolaylaştırıp hata olasılığını en aza indirmeyi amaçlayan temel yazılım prensiplerini barındırır.
+
+Dependency Injection
+
+Herhangi bir sınıfın ihtiyaç duyduğu bağımlılıkları dışarıdan sağlayarak sıkı bağlılıkları gevşetme tekniğidir. SOLID’in D prensibinin uygulamasıdır. Kodun test edilebilirliğini artırarak avantajlar sağlamaktadır.
+
+Clean Architecture
+
+Yazılımı içten dışa doğru katmanlara ayırarak bağımsızlık ve test edilebilirlik sağlayan tasarım yaklaşımıdır. Avantajı, iş kurallarını teknolojiden bağımsız tutarak farklı alanlarda kullanılabilmesini sağlaması ve sürdürülebilir yazılım geliştirme için temel bir yaklaşım sunmasıdır.

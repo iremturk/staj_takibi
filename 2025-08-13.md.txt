@@ -1,0 +1,4 @@
+Konu: Yazılım Geliştirme Süreçleri, Mimariler ve Tasarım İlkeleri Araştırması
+
+Yazılım geliştirme yaşam döngüsü (Waterfall, V Model, Prototip, Spiral, Agile vb.), yazılım mimarileri (Katmanlı Mimari, MVC, MVVM, Clean Architecture) ve tasarım kalıpları üzerine detaylı araştırma yapıldı. SOLID prensipleri, Dependency Injection ve uygulama örnekleri incelendi. Video eğitimler ve teknik makalelerden yararlanılarak Medium’da teknik bir yazı yayımlandı.
+

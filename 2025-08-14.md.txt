@@ -1,0 +1,16 @@
+Konu: Yazılım Geliştirme Süreçleri, Mimariler, Tasarım İlkeleri ve WebSocket Araştırması
+
+Yazılım geliştirme yaşam döngüsü, yazılım mimarileri ve tasarım ilkelerinin kod üzerinde uygulanma yöntemleri incelendi. SOLID prensipleri, Dependency Injection ve tasarım kalıpları örnek projeler üzerinde uygulandı. Ek olarak, gerçek zamanlı veri iletişimi sağlayan WebSocket teknolojisi araştırıldı.
+
+
+
+
+
+
+
+
+
+
+
+
+

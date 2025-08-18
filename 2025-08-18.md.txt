@@ -1,0 +1,1 @@
+Bu projede yapay zeka destekli bir film öneri mobil uygulamasının taslağını Kotlin dili ile geliştirmeye başladım. Uygulama MVVM mimarisi üzerine kuruldu ve Jetpack Compose ile kullanıcı arayüzleri hazırlandı. Kullanıcılar giriş/kayıt işlemi yaparak film arayabilecek, seçtikleri filme benzer 5 öneri görebilecek ve detay sayfasında açıklama, poster gibi bilgilere ulaşabilecek.

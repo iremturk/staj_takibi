@@ -1,0 +1,3 @@
+Konu: Kotlin Öğrenme Süreci
+
+Bugün Kotlin dilindeki öğrenme sürecime devam ettim. Temel sözdizimi ve dilin mantığını pekiştirdim. Nesne tabanlı programlama konularına hazırlık olacak adımları inceledim. Bu çalışmalar ileride geliştireceğim mobil uygulama projelerine sağlam bir temel oluşturacak.

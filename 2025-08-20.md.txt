@@ -1,3 +1,0 @@
-Konu: Kotlin OOP, Fragment Navigation ve Jetpack Compose
-
-Bugünkü çalışmamda Kotlin dilinde nesne yönelimli programlama (OOP) yapısını inceledim. Android uygulama geliştirmede fragment navigation kullanımını araştırarak sayfalar arası geçiş mantığını öğrendim. Ayrıca Jetpack Compose ile modern arayüz geliştirme yöntemlerini inceleyerek örnek tasarımlar denedim. Bu konular sayesinde Kotlin ile Android geliştirme sürecinde daha kapsamlı bir bakış açısı kazandım.

@@ -1,0 +1,2 @@
+Konu: Kotlin Fragment ve Navigation Çalışması
+Bugünkü stajımda Kotlin’de Fragment ve Navigation konularını detaylı şekilde inceledim. Bu konuları pekiştirmek için farklı örnekler üzerinde çalıştım ve mantığını daha iyi anlamaya odaklandım.

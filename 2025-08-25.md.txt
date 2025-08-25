@@ -1,0 +1,2 @@
+Konu: Proje Kurulumu ve Temel UI Geliştirme
+Bugün, 25 Ağustos 2025 tarihinde, Yapay Zeka Destekli Film Öneri Uygulaması projesine başladım. Android Studio’da projeyi kurdum, Gradle bağımlılıklarını güncelleyerek Jetpack Compose ve Navigation entegrasyonunu tamamladım. Dosya yapısını oluşturarak models, ui, ve viewmodels paketlerini tanımladım, ardından Theme.kt, LoginScreen.kt ve RegisterScreen.kt dosyalarını kodladım. Login ve Register ekranlarını dummy verilerle test ettim, navigasyonun temelini attım.

@@ -1,0 +1,3 @@
+Konu: Android Uygulama Geliştirme – Navigation ve Fragment
+
+Bugünkü çalışmamda Android uygulama geliştirme sürecinde fragment yapısı ve navigation konularını inceledim. Uygulama içi geçişlerin yönetimi ve ekranlar arası veri aktarımında bu yapıların nasıl kullanıldığını öğrenmeye odaklandım. Ayrıca, pratik örnekler üzerinden bu konuları pekiştirerek daha verimli bir şekilde kavramaya çalıştım.

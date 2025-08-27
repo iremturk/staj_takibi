@@ -1,0 +1,1 @@
+Bugün, film öneri uygulamasında TMDb ve OpenRouter API entegrasyonlarını kurarak veri çekme ve öneri mekanizmalarını geliştirdim. Kodda karşılaşılan hataların ve  sorunları düzeltmeye çalıştım. Kullanıcı arayüzünde navigasyon ve hata yönetimini iyileştirerek uygulamanın stabilitesini artırmaya yönelik adımlar attım.

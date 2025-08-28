@@ -1,0 +1,3 @@
+ChatGPT:
+
+Bugünkü çalışmada projeye database entegrasyonu yapıldı ve veri yönetimi daha düzenli hale getirildi. Uygulama içi ekranlar arası geçişler düzenlenerek kullanıcı deneyimi geliştirildi. Ayrıca, uygulamanın görünümünü iyileştirmek için tema güncellemeleri gerçekleştirildi. Bu adımlar ile proje hem teknik açıdan hem de tasarım açısından daha stabil ve kullanıcı dostu hale getirildi.

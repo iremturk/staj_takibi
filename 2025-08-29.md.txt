@@ -1,0 +1,3 @@
+Bugün hastane randevum nedeniyle staj kapsamında aktif çalışma yapılmadı. 
+Ancak hafta içinde projeye veri tabanı entegrasyonu, ekran geçişlerinin düzenlenmesi ve tema güncellemeleri tamamlandı. 
+Bu değişikliklerin dokümantasyonu ve kod incelemesi üzerinde çalışıldı.

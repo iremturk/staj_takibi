@@ -1,0 +1,3 @@
+Konu Başlığı: Movie Recommendation App – Geliştirme ve Hata Ayıklama
+
+Bugün projede mevcut geliştirmelere devam ettim ve hata ayıklama çalışmaları yaptım. Arayüz akışını iyileştirerek uygulamanın daha stabil çalışmasını sağladım. Ayrıca API çağrılarında ve ekran geçişlerinde karşılaşılan hataları düzelterek proje akışını sorunsuz hale getirdim.

@@ -1,0 +1,2 @@
+Konu:Proje Kod Raporu
+Bugün Movie Recommendation App projesi için kod tabanlı bir teknik rapor hazırlandı. Proje kod yapısı, modülerlik ve işlevsellik açısından detaylı bir şekilde incelendi.

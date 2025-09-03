@@ -1,0 +1,2 @@
+Konu:Proje İyileştirmeleri ve Sadeleştirme Çalışmaları
+Projede eksik kalan bazı kısımları tamamladım ve kayıt ol sayfasına gerekli eklemeler yaptım. Gereksiz ve kullanılmayan kodları kaldırarak projeyi sadeleştirdim. Kod yapısını biraz daha anlaşılır ve düzenli hale getirdim. Bu sayede proje bakımı ve geliştirilmesi daha kolay bir hale geldi.

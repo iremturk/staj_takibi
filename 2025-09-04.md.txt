@@ -1,0 +1,2 @@
+Konu:Proje Yapısı ve Eksiklik Analizi
+Bugünkü staj günümde projemin dosya yapısını inceledim ve eksiklikleri tespit ettim. Proguard dosyası ve loglama mekanizası hakkında araştırma yaptım, MVVM yapısının tam oturtulması gerektiğini gördüm. Ayrıca yorum satırlarının artırılması ve bağımlılıkların düzenli şekilde eklenmesi konularına odaklandım.

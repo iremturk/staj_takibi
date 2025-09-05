@@ -1,0 +1,2 @@
+Konu:Proje Güncellemeleri
+Bugün projeme ProGuard dosyasını ekleyerek kod güvenliği ve optimizasyonunu sağladım. Ek özellik olarak, kullanıcı deneyimini artırmak için benzer filmler önerme butonunu geliştirdim. Ayrıca projenin testlerini tamamlayarak APK dosyasını oluşturdum. Bu güncellemelerle proje daha güvenli ve kullanıcı dostu bir hale getirildi.
